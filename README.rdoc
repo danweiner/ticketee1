@@ -1,5 +1,7 @@
 == README
 
+This is the sample app for Rails 4 in Action
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
