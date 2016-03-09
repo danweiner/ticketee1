@@ -29,6 +29,7 @@
 require 'spec_helper'
 
 feature "Editing Projects" do
+
   before do
     FactoryGirl.create(:project, name: "TextMate 2")
 
